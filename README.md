@@ -1,7 +1,6 @@
 # Disaster-Dataset
 
-![199664153_2988390978073263_3169465515459072133_n](https://user-images.githubusercontent.com/38560393/124003099-5bc9ca00-d9f8-11eb-8aef-75d2c2c41c9f.png)
-
+<img src="https://user-images.githubusercontent.com/38560393/124003099-5bc9ca00-d9f8-11eb-8aef-75d2c2c41c9f.png" width=70% height=40%>
 [Google Drive Dataset Link](https://drive.google.com/drive/folders/1VvkBRIYW6oD31K3gkPk4-4nlGE2poXFU?fbclid=IwAR2Dlrpn1FvEH1PzUyz1vNgPA2jAe7Z2kvvZFqOR45X3illVqz90iIo7zL4)
 
 Citation
